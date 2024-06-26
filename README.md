@@ -1,4 +1,4 @@
-# lalit_projects_
+# lalit_laptop_price_predictor
 
  Amazon Clone
 
